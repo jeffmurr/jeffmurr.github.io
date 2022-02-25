@@ -7,6 +7,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 This is me in here typing away and reproducing the same **bold**, _italic_, and ~~strikethrough art work ~~
 
 [Link to another page](./another-page.html).
+[Link to another page](./blog).
 
 There should be whitespace between paragraphs.
 
